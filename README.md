@@ -59,7 +59,7 @@ The Eclipse IDE is used for the entire development workflow, offering a unified 
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/nios-ii-softcore-fpga.git
+   git clone https://github.com/WassimHedfi/Nios-II-IP-core
    ```
 2. Install Quartus Prime and configure the DE10-Lite board.
 3. Import the Quartus Prime project and configure the NIOS II processor.
